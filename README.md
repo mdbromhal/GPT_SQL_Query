@@ -1,5 +1,5 @@
 # GPT_SQL_Query
-ABSTRACT: Using OpenAI &amp; SQL Queries with a Chatbot Assistant
+ABSTRACT: Using OpenAI to Produce SQL Queries to Retreive Data with a Chatbot Assistant
 
 Source: https://www.oreilly.com/library/view/developing-apps-with/9781098152475/
 
